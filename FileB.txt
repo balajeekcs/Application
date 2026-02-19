@@ -1,2 +1,6 @@
 This is FileB
+<<<<<<< HEAD
 New file that has been added or modified
+=======
+modified
+>>>>>>> 1b30309902371c492831ca9fdd9f82f63b6c98cc
