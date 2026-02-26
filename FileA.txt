@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-This is FileA
-This file has been changed or modified
-This file to be commit again 
-=======
 This is FileA'
-
 Adding and modified 
->>>>>>> 1b30309902371c492831ca9fdd9f82f63b6c98cc
